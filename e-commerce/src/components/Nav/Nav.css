@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+.Nav-section {
+  height: 60px;
+  background: #f67329;
+  margin-top: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Nav-container {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  /* align-items: center; */
+}
+
+.nav--image {
+  height: 50px;
+  width: auto;
+  margin-left: auto;
+}
